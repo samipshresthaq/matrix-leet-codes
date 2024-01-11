@@ -1,0 +1,14 @@
+/***
+ * Find the solution for the matrix by finding path form start to end
+ * eg:
+ * [
+    "xxxxxxxxxx x",
+    "x        x x",
+    "x        x x",
+    "x xxxxxxxx x",
+    "x          x",
+    "x xxxxxxxxxx",
+  ];
+
+  Provided the maze matrix, wall symbol ("x"), start point ({ x: 10, y: 0 }) and end point ({ x: 1, y: 5 })
+ */

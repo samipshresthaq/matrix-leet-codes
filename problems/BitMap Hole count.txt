@@ -1,0 +1,12 @@
+/***
+ * Find the number of holes in a matrix, the continuous holes are count as 1 and only holes with no connection are counted uniquely
+ * Here there are two holes
+ * [1 0
+ *  0 1]
+ *
+ * Here there is only one hole
+ * [1 0 1
+ *  0 0 1
+ *  1 0 0
+ * ]
+ */
